@@ -1,4 +1,4 @@
-#Sudoku
+#Sudoku#
 
 This is a Sudoku solver as introduced in the first chapter of The Ruby Programming Language by David Flanagan and Yukihiro Matsumoto.
 
